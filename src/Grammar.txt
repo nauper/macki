@@ -1,0 +1,10 @@
+Workspace: Date Time Boxes
+Date: <Date=\d{8}>
+Time: <Time=\d{8}>
+Boxes: Box|Box Boxes
+
+Box: BoxID Pos Color Text
+BoxID: <ID=\d+>
+Pos: <Pos=(\d+,\d+)>
+Color: <Col=HEX> //HEX is a 6 digit hexadecimal number.
+Text: <Txt>.*</Txt>

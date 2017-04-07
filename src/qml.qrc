@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>textbox.qml</file>
+        <file>actions.js</file>
+        <file>images/cross.png</file>
+        <file>images/pdfbak.png</file>
+        <file>images/textbox.png</file>
+        <file>images/cursor.png</file>
+        <file>ToolbarItem.qml</file>
+        <file>images/pencil.png</file>
+        <file>ping.qml</file>
+        <file>loginBox.qml</file>
+    </qresource>
+</RCC>
